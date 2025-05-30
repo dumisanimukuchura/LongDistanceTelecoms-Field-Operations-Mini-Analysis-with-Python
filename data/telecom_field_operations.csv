@@ -1,0 +1,7 @@
+Work_ID,Technician_Name,Age,Gender,Education_Level,Years_Experience,Region,Work_Type,Duration_Hrs,Tasks_Completed,Faults_Resolved,Equipment_Used,Site_Type,Issue_Escalated,Customer_Satisfaction
+W001,Tariro Ncube,29,F,Diploma,5,Harare,Fiber Installation,5,3,2,"Splicer, OTDR",Urban,No,4.5
+W002,Kuda Chikuni,32,M,BSc,8,Bulawayo,Base Station Repair,7.5,5,4,"Multimeter, Analyzer",Rural,Yes,3
+W003,Lisa Zinyoro,27,F,BSc,4,Gweru,Router Config,3,2,2,"Laptop, Patch Cords",Urban,No,5
+W004,John Mavhunga,35,M,Diploma,10,Mutare,Signal Testing,6.5,4,3,Spectrum Analyzer,Rural,Yes,2.5
+W005,Ruvimbo Nyathi,31,F,BSc,6,Harare,Fiber Maintenance,4.5,3,3,"OTDR, Power Meter",Urban,No,4
+W006,Tafadzwa Zhou,28,M,Diploma,7,Masvingo,Base Station Repair,8,6,5,Signal Tester,Rural,Yes,3.5
